@@ -1,21 +1,22 @@
 Raesfeld 
-Flughafen - Airport 
+Flughafen - airport
 Berlin 
 Bratwurst 
-Hauptstrasse 
-Brot 
+Hauptstrasse - main road
+Brot - bread
 Gauss 
-Klimaanlage - Air Conditioning
-Rammstein
-Musik - Music
+Klimaanlage - air conditioning
+Rammstein 
+Musik 
 Porsche 
 BMW 
-Biergarten - Beer Garden
+Biergarten - beer garden
 Ratskeller 
 Dirndel 
-Lederhose 
+Lederhose - leather pants
 Audi 
-Schloss 
+Schloss - lock, Castle
 Munich 
 wettbewerbsfaehig - competitive
 Mehlhase
+
